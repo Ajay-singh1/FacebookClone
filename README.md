@@ -16,4 +16,5 @@
   <li>The development server will start running at port 5500</li>
 </ol>
 <br>
+
 ![Screenshot from 2024-10-03 19-20-14](https://github.com/user-attachments/assets/f9ad4a14-6027-46b6-938b-1a98c2dc9791)
